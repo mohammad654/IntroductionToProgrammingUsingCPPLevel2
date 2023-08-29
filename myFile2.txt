@@ -1,0 +1,20 @@
+Mohammad ali 11
+Hi, this is the first line
+myFile.open("myFile.txt",ios::out); //write mode
+myFile.open("myFile.txt",ios::out|ios::app); // append or write mode
+Mohammad ali 11
+Hi, this is the first line
+myFile.open("myFile.txt",ios::out); //write mode
+myFile.open("myFile.txt",ios::out|ios::app); // append or write mode
+Mohammad ali 11
+Hi, this is the first line
+myFile.open("myFile.txt",ios::out); //write mode
+myFile.open("myFile.txt",ios::out|ios::app); // append or write mode
+Mohammad ali 11
+Hi, this is the first line
+myFile.open("myFile.txt",ios::out); //write mode
+myFile.open("myFile.txt",ios::out|ios::app); // append or write mode
+Mohammad ali 11
+Hi, this is the first line
+myFile.open("myFile.txt",ios::out); //write mode
+myFile.open("myFile.txt",ios::out|ios::app); // append or write mode
