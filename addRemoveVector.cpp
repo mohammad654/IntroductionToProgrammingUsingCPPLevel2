@@ -71,16 +71,3 @@ int main() {
 	cout << "\n\n***************************************************\n\n";
 	return 0;
 }
-
-/*
-
-cout<<""<<endl;
-         g++ index.cpp -o index.exe
-              .\index.exe
-
-
-
-    $env:PATH += ";C:\Programmeren\C++\mosh"
-    addVector.cpp
-
-  */
